@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Algorithm\\Project Npuzzle\\nPuzzle\\nPuzzle\\nPuzzle.csproj": {}
+  },
+  "projects": {
+    "D:\\Algorithm\\Project Npuzzle\\nPuzzle\\nPuzzle\\nPuzzle.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Algorithm\\Project Npuzzle\\nPuzzle\\nPuzzle\\nPuzzle.csproj",
+        "projectName": "nPuzzle",
+        "projectPath": "D:\\Algorithm\\Project Npuzzle\\nPuzzle\\nPuzzle\\nPuzzle.csproj",
+        "packagesPath": "C:\\Users\\youse\\.nuget\\packages\\",
+        "outputPath": "D:\\Algorithm\\Project Npuzzle\\nPuzzle\\nPuzzle\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\youse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

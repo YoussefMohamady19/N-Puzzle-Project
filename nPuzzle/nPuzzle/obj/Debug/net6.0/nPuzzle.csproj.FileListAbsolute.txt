@@ -1,0 +1,18 @@
+D:\project\Visual\nPuzzle\nPuzzle\bin\Debug\net6.0\nPuzzle.exe
+D:\project\Visual\nPuzzle\nPuzzle\bin\Debug\net6.0\nPuzzle.deps.json
+D:\project\Visual\nPuzzle\nPuzzle\bin\Debug\net6.0\nPuzzle.runtimeconfig.json
+D:\project\Visual\nPuzzle\nPuzzle\bin\Debug\net6.0\nPuzzle.dll
+D:\project\Visual\nPuzzle\nPuzzle\bin\Debug\net6.0\nPuzzle.pdb
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.csproj.AssemblyReference.cache
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.AssemblyInfoInputs.cache
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.AssemblyInfo.cs
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.csproj.CoreCompileInputs.cache
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.dll
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\refint\nPuzzle.dll
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.pdb
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.genruntimeconfig.cache
+D:\project\Visual\nPuzzle\nPuzzle\obj\Debug\net6.0\ref\nPuzzle.dll
+D:\Algorithm\Project Npuzzle\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.dll
+D:\Algorithm\Project Npuzzle\nPuzzle\nPuzzle\obj\Debug\net6.0\refint\nPuzzle.dll
+D:\Algorithm\Project Npuzzle\nPuzzle\nPuzzle\obj\Debug\net6.0\nPuzzle.pdb
